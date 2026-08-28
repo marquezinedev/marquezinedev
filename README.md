@@ -10,6 +10,7 @@ aprendendo na prática através de projetos reais construídos em aula.
 ---
 ## Formações
 Mecânico de Manutenção - SENAI
+
 Eletricista de Manutenção Eletroeletrônica - SENAI
 
 
@@ -39,4 +40,4 @@ Eletricista de Manutenção Eletroeletrônica - SENAI
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marquezine/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vitorleles.marquezine@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](vitorleles.marquezine@hotmail.com)
