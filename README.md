@@ -6,7 +6,6 @@ Estudante do curso técnico/tecnólogo em Desenvolvimento de Sistemas, com foco 
 programação mobile (Android nativo com Java e XML). Em desenvolvimento constante,
 aprendendo na prática através de projetos reais construídos em aula.
 
-
 ---
 ## Formações
 Mecânico de Manutenção - SENAI
@@ -20,7 +19,10 @@ Eletricista de Manutenção Eletroeletrônica - SENAI
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ---
 
@@ -38,6 +40,5 @@ Eletricista de Manutenção Eletroeletrônica - SENAI
 
 ## Contato
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-marquezine/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](vitorleles.marquezine@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vitorleles.marquezine@hotmail.com)
